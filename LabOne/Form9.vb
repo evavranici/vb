@@ -1,4 +1,8 @@
-﻿Public Class Form9
+﻿' Name: Exercise 9 Lab 1
+' Description:
+' Programmer: Eva Vranici
+
+Public Class Form9
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Label4.Text = Val(TextBox1.Text) * 25 / 100
         Label5.Text = Format(Val(TextBox1.Text) - Val(Label4.Text), "0.00")
