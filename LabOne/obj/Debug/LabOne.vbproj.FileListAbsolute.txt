@@ -1,0 +1,64 @@
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\LabOne\bin\Debug\LabOne.exe.config
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\LabOne\bin\Debug\LabOne.exe
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\LabOne\bin\Debug\LabOne.pdb
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\LabOne\bin\Debug\LabOne.xml
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\LabOne\obj\Debug\LabOne.vbprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\LabOne\obj\Debug\LabOne.Form1.resources
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\LabOne\obj\Debug\LabOne.Resources.resources
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\LabOne\obj\Debug\LabOne.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\LabOne\obj\Debug\LabOne.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\LabOne\obj\Debug\LabOne.exe
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\LabOne\obj\Debug\LabOne.xml
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\LabOne\obj\Debug\LabOne.pdb
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vbdotnet\LabOne\bin\Debug\LabOne.exe.config
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vbdotnet\LabOne\bin\Debug\LabOne.exe
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vbdotnet\LabOne\bin\Debug\LabOne.pdb
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vbdotnet\LabOne\bin\Debug\LabOne.xml
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vbdotnet\LabOne\obj\Debug\LabOne.vbprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vbdotnet\LabOne\obj\Debug\LabOne.Form1.resources
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vbdotnet\LabOne\obj\Debug\LabOne.Resources.resources
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vbdotnet\LabOne\obj\Debug\LabOne.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vbdotnet\LabOne\obj\Debug\LabOne.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vbdotnet\LabOne\obj\Debug\LabOne.exe
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vbdotnet\LabOne\obj\Debug\LabOne.xml
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vbdotnet\LabOne\obj\Debug\LabOne.pdb
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vbdotnet\LabOne\obj\Debug\LabOne.Form2.resources
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vb\LabOne\bin\Debug\LabOne.exe.config
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vb\LabOne\bin\Debug\LabOne.exe
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vb\LabOne\bin\Debug\LabOne.pdb
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vb\LabOne\bin\Debug\LabOne.xml
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.vbprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.Form1.resources
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.Form2.resources
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.Form3.resources
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.Resources.resources
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.exe
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.xml
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.pdb
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.Form4.resources
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.Form5.resources
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.Form9.resources
+C:\Users\Admin\Desktop\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.Form10.resources
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabOne\bin\Debug\LabOne.exe.config
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabOne\bin\Debug\LabOne.exe
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabOne\bin\Debug\LabOne.pdb
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabOne\bin\Debug\LabOne.xml
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.vbprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.Form1.resources
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.Form10.resources
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.Form13.resources
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.Form2.resources
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.Form3.resources
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.Form4.resources
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.Form6.resources
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.Form9.resources
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.Resources.resources
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.exe
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.xml
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.pdb
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.Form16.resources
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabOne\obj\Debug\LabOne.Form17.resources
