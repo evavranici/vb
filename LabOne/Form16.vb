@@ -1,5 +1,5 @@
 ﻿' Name: Exercise 16 Lab 1
-' Description: not completed, only imported part is coded
+' Description: not completed, only the important part is coded
 ' Programmer: Eva Vranici
 
 Public Class Form16
