@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabTwo\bin\Debug\LabTwo.exe.config
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabTwo\bin\Debug\LabTwo.exe
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabTwo\bin\Debug\LabTwo.pdb
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabTwo\bin\Debug\LabTwo.xml
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabTwo\obj\Debug\LabTwo.vbprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabTwo\obj\Debug\LabTwo.Resources.resources
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabTwo\obj\Debug\LabTwo.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabTwo\obj\Debug\LabTwo.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabTwo\obj\Debug\LabTwo.exe
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabTwo\obj\Debug\LabTwo.xml
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabTwo\obj\Debug\LabTwo.pdb
+C:\Users\Admin\Desktop\Folderi Share\Spring2020\VB.NET\Labs\vb\LabTwo\obj\Debug\LabTwo.Form4.resources
